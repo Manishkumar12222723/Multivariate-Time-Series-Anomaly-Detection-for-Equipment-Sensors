@@ -1,4 +1,5 @@
 Multivariate Time-Series Anomaly Detection for Equipment Sensors
+
 📌 Project Overview
 
 This project focuses on detecting anomalies in multivariate time-series sensor data collected from industrial equipment. The objective is to identify abnormal patterns that may indicate equipment failure, degradation, or operational instability.
